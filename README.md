@@ -1,7 +1,5 @@
 ### Meu nome é Matheus Castro! 👋
 
-
-- 🔭 Hoje trabalho com Desenvolvimento Front-End.
 - 🌱 Atualmente estou estudando ReactJs e Typescript
 
 <div align="center">

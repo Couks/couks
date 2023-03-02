@@ -1,6 +1,6 @@
 ### Meu nome é Matheus Castro! 👋
 
-- 🌱 Atualmente estou estudando ReactJs e Typescript
+- 🌱 Atualmente estou estudando ReactJs, Tailwind Css e Javascript
 
 <div align="center">
   <a href="https://github.com/couks">
